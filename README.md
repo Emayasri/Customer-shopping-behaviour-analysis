@@ -91,10 +91,6 @@ Customer-Shopping-Behavior-Analysis/
 How to Run the Project
 Step 1: Clone the Repository
 
-git clone https://github.com/your-username/customer-shopping-behavior-analysis.git
-
-cd customer-shopping-behavior-analysis
-
 Step 2: Install Required Libraries
 
 pip install pandas mysql-connector-python
